@@ -1,0 +1,818 @@
+﻿City,Date,Holiday
+NASHVILLE TN,42370,New Year's Day
+NASHVILLE TN,42387,Martin Luther King Jr. Day
+NASHVILLE TN,42415,President's Day
+NASHVILLE TN,42454,Good Friday
+NASHVILLE TN,42520,Memorial Day
+NASHVILLE TN,42540,Juneteenth National Independence
+NASHVILLE TN,42555,Independence Day
+NASHVILLE TN,42618,Labor Day
+NASHVILLE TN,42685,Veterans Day 
+NASHVILLE TN,42698,Thanksgiving
+NASHVILLE TN,42699,Thanksgiving (Day After)
+NASHVILLE TN,42728,Christmas Eve
+NASHVILLE TN,42729,Christmas day
+NASHVILLE TN,42735,New Year's Eve
+NASHVILLE TN,42736,New Year's Day
+NASHVILLE TN,42751,Martin Luther King Jr. Day
+NASHVILLE TN,42786,President's Day
+NASHVILLE TN,42839,Good Friday
+NASHVILLE TN,42884,Memorial Day
+NASHVILLE TN,42905,Juneteenth National Independence
+NASHVILLE TN,42920,Independence Day
+NASHVILLE TN,42982,Labor Day
+NASHVILLE TN,43050,Veterans Day 
+NASHVILLE TN,43062,Thanksgiving
+NASHVILLE TN,43063,Thanksgiving (Day After)
+NASHVILLE TN,43093,Christmas Eve
+NASHVILLE TN,43094,Christmas day
+NASHVILLE TN,43100,New Year's Eve
+NASHVILLE TN,43101,New Year's Day
+NASHVILLE TN,43115,Martin Luther King Jr. Day
+NASHVILLE TN,43150,President's Day
+NASHVILLE TN,43189,Good Friday
+NASHVILLE TN,43248,Memorial Day
+NASHVILLE TN,43270,Juneteenth National Independence
+NASHVILLE TN,43285,Independence Day
+NASHVILLE TN,43346,Labor Day
+NASHVILLE TN,43415,Veterans Day 
+NASHVILLE TN,43426,Thanksgiving
+NASHVILLE TN,43427,Thanksgiving (Day After)
+NASHVILLE TN,43458,Christmas Eve
+NASHVILLE TN,43459,Christmas day
+NASHVILLE TN,43465,New Year's Eve
+SAN DIEGO CA,42370,New Year's Day
+SAN DIEGO CA,42387,Martin Luther King Jr. Day
+SAN DIEGO CA,42415,President's Day
+SAN DIEGO CA,43190,César Chávez Day
+SAN DIEGO CA,42520,Memorial Day
+SAN DIEGO CA,42540,Juneteenth National Independence
+SAN DIEGO CA,42555,Independence Day
+SAN DIEGO CA,42618,Labor Day
+SAN DIEGO CA,42685,Veterans Day 
+SAN DIEGO CA,42698,Thanksgiving
+SAN DIEGO CA,42699,Thanksgiving (Day After)
+SAN DIEGO CA,42728,Christmas Eve
+SAN DIEGO CA,42729,Christmas day
+SAN DIEGO CA,42735,New Year's Eve
+SAN DIEGO CA,42736,New Year's Day
+SAN DIEGO CA,42751,Martin Luther King Jr. Day
+SAN DIEGO CA,42786,President's Day
+SAN DIEGO CA,43190,César Chávez Day
+SAN DIEGO CA,42884,Memorial Day
+SAN DIEGO CA,42905,Juneteenth National Independence
+SAN DIEGO CA,42920,Independence Day
+SAN DIEGO CA,42982,Labor Day
+SAN DIEGO CA,43050,Veterans Day 
+SAN DIEGO CA,43062,Thanksgiving
+SAN DIEGO CA,43063,Thanksgiving (Day After)
+SAN DIEGO CA,43093,Christmas Eve
+SAN DIEGO CA,43094,Christmas day
+SAN DIEGO CA,43100,New Year's Eve
+SAN DIEGO CA,43101,New Year's Day
+SAN DIEGO CA,43115,Martin Luther King Jr. Day
+SAN DIEGO CA,43150,President's Day
+SAN DIEGO CA,43190,César Chávez Day
+SAN DIEGO CA,43248,Memorial Day
+SAN DIEGO CA,43270,Juneteenth National Independence
+SAN DIEGO CA,43285,Independence Day
+SAN DIEGO CA,43346,Labor Day
+SAN DIEGO CA,43415,Veterans Day 
+SAN DIEGO CA,43426,Thanksgiving
+SAN DIEGO CA,43427,Thanksgiving (Day After)
+SAN DIEGO CA,43458,Christmas Eve
+SAN DIEGO CA,43459,Christmas day
+SAN DIEGO CA,43465,New Year's Eve
+SILICON VALLEY,42370,New Year's Day
+SILICON VALLEY,42387,Martin Luther King Jr. Day
+SILICON VALLEY,42415,President's Day
+SILICON VALLEY,43190,César Chávez Day
+SILICON VALLEY,42520,Memorial Day
+SILICON VALLEY,42540,Juneteenth National Independence
+SILICON VALLEY,42555,Independence Day
+SILICON VALLEY,42618,Labor Day
+SILICON VALLEY,42685,Veterans Day 
+SILICON VALLEY,42698,Thanksgiving
+SILICON VALLEY,42699,Thanksgiving (Day After)
+SILICON VALLEY,42728,Christmas Eve
+SILICON VALLEY,42729,Christmas day
+SILICON VALLEY,42735,New Year's Eve
+SILICON VALLEY,42736,New Year's Day
+SILICON VALLEY,42751,Martin Luther King Jr. Day
+SILICON VALLEY,42786,President's Day
+SILICON VALLEY,43190,César Chávez Day
+SILICON VALLEY,42884,Memorial Day
+SILICON VALLEY,42905,Juneteenth National Independence
+SILICON VALLEY,42920,Independence Day
+SILICON VALLEY,42982,Labor Day
+SILICON VALLEY,43050,Veterans Day 
+SILICON VALLEY,43062,Thanksgiving
+SILICON VALLEY,43063,Thanksgiving (Day After)
+SILICON VALLEY,43093,Christmas Eve
+SILICON VALLEY,43094,Christmas day
+SILICON VALLEY,43100,New Year's Eve
+SILICON VALLEY,43101,New Year's Day
+SILICON VALLEY,43115,Martin Luther King Jr. Day
+SILICON VALLEY,43150,President's Day
+SILICON VALLEY,43190,César Chávez Day
+SILICON VALLEY,43248,Memorial Day
+SILICON VALLEY,43270,Juneteenth National Independence
+SILICON VALLEY,43285,Independence Day
+SILICON VALLEY,43346,Labor Day
+SILICON VALLEY,43415,Veterans Day 
+SILICON VALLEY,43426,Thanksgiving
+SILICON VALLEY,43427,Thanksgiving (Day After)
+SILICON VALLEY,43458,Christmas Eve
+SILICON VALLEY,43459,Christmas day
+SILICON VALLEY,43465,New Year's Eve
+TUCSON AZ,42369,New Year's Eve
+TUCSON AZ,42370,New Year's Day
+TUCSON AZ,42387,Martin Luther King Jr. Day
+TUCSON AZ,42415,President's Day
+TUCSON AZ,42520,Memorial Day
+TUCSON AZ,42540,Juneteenth National Independence
+TUCSON AZ,42555,Independence Day
+TUCSON AZ,42618,Labor Day
+TUCSON AZ,42653,Columbus Day
+TUCSON AZ,42685,Veterans Day 
+TUCSON AZ,42698,Thanksgiving
+TUCSON AZ,42699,Thanksgiving (Day After)
+TUCSON AZ,42728,Christmas Eve
+TUCSON AZ,42729,Christmas day
+TUCSON AZ,42735,New Year's Eve
+TUCSON AZ,42736,New Year's Day
+TUCSON AZ,42751,Martin Luther King Jr. Day
+TUCSON AZ,42786,President's Day
+TUCSON AZ,42884,Memorial Day
+TUCSON AZ,42905,Juneteenth National Independence
+TUCSON AZ,42920,Independence Day
+TUCSON AZ,42982,Labor Day
+TUCSON AZ,43017,Columbus Day
+TUCSON AZ,43050,Veterans Day 
+TUCSON AZ,43062,Thanksgiving
+TUCSON AZ,43063,Thanksgiving (Day After)
+TUCSON AZ,43093,Christmas Eve
+TUCSON AZ,43094,Christmas day
+TUCSON AZ,43100,New Year's Eve
+TUCSON AZ,43101,New Year's Day
+TUCSON AZ,43115,Martin Luther King Jr. Day
+TUCSON AZ,43150,President's Day
+TUCSON AZ,43248,Memorial Day
+TUCSON AZ,43270,Juneteenth National Independence
+TUCSON AZ,43285,Independence Day
+TUCSON AZ,43346,Labor Day
+TUCSON AZ,43381,Columbus Day
+TUCSON AZ,43415,Veterans Day 
+TUCSON AZ,43426,Thanksgiving
+TUCSON AZ,43427,Thanksgiving (Day After)
+TUCSON AZ,43458,Christmas Eve
+TUCSON AZ,43459,Christmas day
+ATLANTA GA,42370,New Year's Day
+ATLANTA GA,42387,Martin Luther King Jr. Day
+ATLANTA GA,42485,Confederate Memorial Day
+ATLANTA GA,42520,Memorial Day
+ATLANTA GA,42540,Juneteenth National Independence
+ATLANTA GA,42555,Independence Day
+ATLANTA GA,42618,Labor Day
+ATLANTA GA,42653,Columbus Day
+ATLANTA GA,42685,Veterans Day 
+ATLANTA GA,42698,Thanksgiving
+ATLANTA GA,42699,Thanksgiving (Day After)
+ATLANTA GA,42728,Christmas Eve
+ATLANTA GA,42729,Christmas day
+ATLANTA GA,42731,President's Day
+ATLANTA GA,42735,New Year's Eve
+ATLANTA GA,42736,New Year's Day
+ATLANTA GA,42751,Martin Luther King Jr. Day
+ATLANTA GA,42849,Confederate Memorial Day
+ATLANTA GA,42884,Memorial Day
+ATLANTA GA,42905,Juneteenth National Independence
+ATLANTA GA,42920,Independence Day
+ATLANTA GA,42982,Labor Day
+ATLANTA GA,43017,Columbus Day
+ATLANTA GA,43050,Veterans Day 
+ATLANTA GA,43062,Thanksgiving
+ATLANTA GA,43063,Thanksgiving (Day After)
+ATLANTA GA,43093,Christmas Eve
+ATLANTA GA,43094,Christmas day
+ATLANTA GA,43100,New Year's Eve
+ATLANTA GA,43101,New Year's Day
+ATLANTA GA,43115,Martin Luther King Jr. Day
+ATLANTA GA,43213,Confederate Memorial Day
+ATLANTA GA,43248,Memorial Day
+ATLANTA GA,43270,Juneteenth National Independence
+ATLANTA GA,43285,Independence Day
+ATLANTA GA,43346,Labor Day
+ATLANTA GA,43381,Columbus Day
+ATLANTA GA,43415,Veterans Day 
+ATLANTA GA,43426,Thanksgiving
+ATLANTA GA,43427,Thanksgiving (Day After)
+ATLANTA GA,43458,Christmas Eve
+ATLANTA GA,43094,Christmas day
+ATLANTA GA,43465,New Year's Eve
+BOSTON MA,42370,New Year's Day
+BOSTON MA,42387,Martin Luther King Jr. Day
+BOSTON MA,42415,President's Day
+BOSTON MA,42478,Patriots' Day
+BOSTON MA,42520,Memorial Day
+BOSTON MA,42540,Juneteenth National Independence
+BOSTON MA,42555,Independence Day
+BOSTON MA,42618,Labor Day
+BOSTON MA,42653,Columbus Day
+BOSTON MA,42685,Veterans Day 
+BOSTON MA,42698,Thanksgiving
+BOSTON MA,42699,Thanksgiving (Day After)
+BOSTON MA,42728,Christmas Eve
+BOSTON MA,42729,Christmas day
+BOSTON MA,42735,New Year's Eve
+BOSTON MA,42736,New Year's Day
+BOSTON MA,42751,Martin Luther King Jr. Day
+BOSTON MA,42786,President's Day
+BOSTON MA,42842,Patriots' Day
+BOSTON MA,42884,Memorial Day
+BOSTON MA,42905,Juneteenth National Independence
+BOSTON MA,42920,Independence Day
+BOSTON MA,42982,Labor Day
+BOSTON MA,43017,Columbus Day
+BOSTON MA,43050,Veterans Day 
+BOSTON MA,43062,Thanksgiving
+BOSTON MA,43063,Thanksgiving (Day After)
+BOSTON MA,43093,Christmas Eve
+BOSTON MA,43094,Christmas day
+BOSTON MA,43100,New Year's Eve
+BOSTON MA,43101,New Year's Day
+BOSTON MA,43115,Martin Luther King Jr. Day
+BOSTON MA,43150,President's Day
+BOSTON MA,43206,Patriots' Day
+BOSTON MA,43248,Memorial Day
+BOSTON MA,43270,Juneteenth National Independence
+BOSTON MA,43285,Independence Day
+BOSTON MA,43346,Labor Day
+BOSTON MA,43381,Columbus Day
+BOSTON MA,43415,Veterans Day 
+BOSTON MA,43426,Thanksgiving
+BOSTON MA,43427,Thanksgiving (Day After)
+BOSTON MA,43458,Christmas Eve
+BOSTON MA,43459,Christmas day
+BOSTON MA,43465,New Year's Eve
+MIAMI FL,42370,New Year's Day
+MIAMI FL,42387,Martin Luther King Jr. Day
+MIAMI FL,42415,President's Day
+MIAMI FL,42520,Memorial Day
+MIAMI FL,42540,Juneteenth National Independence
+MIAMI FL,42555,Independence Day
+MIAMI FL,42618,Labor Day
+MIAMI FL,42653,Columbus Day
+MIAMI FL,42685,Veterans Day 
+MIAMI FL,42698,Thanksgiving
+MIAMI FL,42699,Thanksgiving (Day After)
+MIAMI FL,42728,Christmas Eve
+MIAMI FL,42729,Christmas day
+MIAMI FL,42735,New Year's Eve
+MIAMI FL,42736,New Year's Day
+MIAMI FL,42751,Martin Luther King Jr. Day
+MIAMI FL,42786,President's Day
+MIAMI FL,42884,Memorial Day
+MIAMI FL,42905,Juneteenth National Independence
+MIAMI FL,42920,Independence Day
+MIAMI FL,42982,Labor Day
+MIAMI FL,43017,Columbus Day
+MIAMI FL,43050,Veterans Day 
+MIAMI FL,43062,Thanksgiving
+MIAMI FL,43063,Thanksgiving (Day After)
+MIAMI FL,43093,Christmas Eve
+MIAMI FL,43094,Christmas day
+MIAMI FL,43100,New Year's Eve
+MIAMI FL,43101,New Year's Day
+MIAMI FL,43115,Martin Luther King Jr. Day
+MIAMI FL,43150,President's Day
+MIAMI FL,43248,Memorial Day
+MIAMI FL,43270,Juneteenth National Independence
+MIAMI FL,43285,Independence Day
+MIAMI FL,43346,Labor Day
+MIAMI FL,43381,Columbus Day
+MIAMI FL,43415,Veterans Day 
+MIAMI FL,43426,Thanksgiving
+MIAMI FL,43427,Thanksgiving (Day After)
+MIAMI FL,43458,Christmas Eve
+MIAMI FL,43459,Christmas day
+MIAMI FL,43465,New Year's Eve
+SACRAMENTO CA,42370,New Year's Day
+SACRAMENTO CA,42387,Martin Luther King Jr. Day
+SACRAMENTO CA,42415,President's Day
+SACRAMENTO CA,43190,César Chávez Day
+SACRAMENTO CA,42520,Memorial Day
+SACRAMENTO CA,42540,Juneteenth National Independence
+SACRAMENTO CA,42555,Independence Day
+SACRAMENTO CA,42618,Labor Day
+SACRAMENTO CA,42685,Veterans Day 
+SACRAMENTO CA,42698,Thanksgiving
+SACRAMENTO CA,42699,Thanksgiving (Day After)
+SACRAMENTO CA,42728,Christmas Eve
+SACRAMENTO CA,42729,Christmas day
+SACRAMENTO CA,42735,New Year's Eve
+SACRAMENTO CA,42736,New Year's Day
+SACRAMENTO CA,42751,Martin Luther King Jr. Day
+SACRAMENTO CA,42786,President's Day
+SACRAMENTO CA,43190,César Chávez Day
+SACRAMENTO CA,42884,Memorial Day
+SACRAMENTO CA,42905,Juneteenth National Independence
+SACRAMENTO CA,42920,Independence Day
+SACRAMENTO CA,42982,Labor Day
+SACRAMENTO CA,43050,Veterans Day 
+SACRAMENTO CA,43062,Thanksgiving
+SACRAMENTO CA,43063,Thanksgiving (Day After)
+SACRAMENTO CA,43093,Christmas Eve
+SACRAMENTO CA,43094,Christmas day
+SACRAMENTO CA,43100,New Year's Eve
+SACRAMENTO CA,43101,New Year's Day
+SACRAMENTO CA,43115,Martin Luther King Jr. Day
+SACRAMENTO CA,43150,President's Day
+SACRAMENTO CA,43190,César Chávez Day
+SACRAMENTO CA,43248,Memorial Day
+SACRAMENTO CA,43270,Juneteenth National Independence
+SACRAMENTO CA,43285,Independence Day
+SACRAMENTO CA,43346,Labor Day
+SACRAMENTO CA,43415,Veterans Day 
+SACRAMENTO CA,43426,Thanksgiving
+SACRAMENTO CA,43427,Thanksgiving (Day After)
+SACRAMENTO CA,43458,Christmas Eve
+SACRAMENTO CA,43459,Christmas day
+SACRAMENTO CA,43465,New Year's Eve
+DALLAS TX,42370,New Year's Day
+DALLAS TX,42387,Martin Luther King Jr. Day
+DALLAS TX,42415,President's Day
+DALLAS TX,42520,Memorial Day
+DALLAS TX,42540,Juneteenth National Independence
+DALLAS TX,42555,Independence Day
+DALLAS TX,42618,Labor Day
+DALLAS TX,42685,Veterans Day 
+DALLAS TX,42698,Thanksgiving
+DALLAS TX,42699,Thanksgiving (Day After)
+DALLAS TX,42728,Christmas Eve
+DALLAS TX,42729,Christmas day
+DALLAS TX,42730,Christmas day (Day After)
+DALLAS TX,42735,New Year's Eve
+DALLAS TX,42736,New Year's Day
+DALLAS TX,42751,Martin Luther King Jr. Day
+DALLAS TX,42786,President's Day
+DALLAS TX,42884,Memorial Day
+DALLAS TX,42905,Juneteenth National Independence
+DALLAS TX,42920,Independence Day
+DALLAS TX,42982,Labor Day
+DALLAS TX,43050,Veterans Day 
+DALLAS TX,43062,Thanksgiving
+DALLAS TX,43063,Thanksgiving (Day After)
+DALLAS TX,43093,Christmas Eve
+DALLAS TX,43094,Christmas day
+DALLAS TX,43095,Christmas day (Day After)
+DALLAS TX,43100,New Year's Eve
+DALLAS TX,43101,New Year's Day
+DALLAS TX,43115,Martin Luther King Jr. Day
+DALLAS TX,43150,President's Day
+DALLAS TX,43248,Memorial Day
+DALLAS TX,43270,Juneteenth National Independence
+DALLAS TX,43285,Independence Day
+DALLAS TX,43346,Labor Day
+DALLAS TX,43415,Veterans Day 
+DALLAS TX,43426,Thanksgiving
+DALLAS TX,43427,Thanksgiving (Day After)
+DALLAS TX,43458,Christmas Eve
+DALLAS TX,43459,Christmas day
+DALLAS TX,43460,Christmas day (Day After)
+DALLAS TX,43465,New Year's Eve
+PHOENIX AZ,42369,New Year's Eve
+PHOENIX AZ,42370,New Year's Day
+PHOENIX AZ,42387,Martin Luther King Jr. Day
+PHOENIX AZ,42415,President's Day
+PHOENIX AZ,42520,Memorial Day
+PHOENIX AZ,42540,Juneteenth National Independence
+PHOENIX AZ,42555,Independence Day
+PHOENIX AZ,42618,Labor Day
+PHOENIX AZ,42653,Columbus Day
+PHOENIX AZ,42685,Veterans Day 
+PHOENIX AZ,42698,Thanksgiving
+PHOENIX AZ,42699,Thanksgiving (Day After)
+PHOENIX AZ,42728,Christmas Eve
+PHOENIX AZ,42729,Christmas day
+PHOENIX AZ,42735,New Year's Eve
+PHOENIX AZ,42736,New Year's Day
+PHOENIX AZ,42751,Martin Luther King Jr. Day
+PHOENIX AZ,42786,President's Day
+PHOENIX AZ,42884,Memorial Day
+PHOENIX AZ,42905,Juneteenth National Independence
+PHOENIX AZ,42920,Independence Day
+PHOENIX AZ,42982,Labor Day
+PHOENIX AZ,43017,Columbus Day
+PHOENIX AZ,43050,Veterans Day 
+PHOENIX AZ,43062,Thanksgiving
+PHOENIX AZ,43063,Thanksgiving (Day After)
+PHOENIX AZ,43093,Christmas Eve
+PHOENIX AZ,43094,Christmas day
+PHOENIX AZ,43100,New Year's Eve
+PHOENIX AZ,43101,New Year's Day
+PHOENIX AZ,43115,Martin Luther King Jr. Day
+PHOENIX AZ,43150,President's Day
+PHOENIX AZ,43248,Memorial Day
+PHOENIX AZ,43270,Juneteenth National Independence
+PHOENIX AZ,43285,Independence Day
+PHOENIX AZ,43346,Labor Day
+PHOENIX AZ,43381,Columbus Day
+PHOENIX AZ,43415,Veterans Day 
+PHOENIX AZ,43426,Thanksgiving
+PHOENIX AZ,43427,Thanksgiving (Day After)
+PHOENIX AZ,43458,Christmas Eve
+PHOENIX AZ,43459,Christmas day
+CHICAGO IL,42370,New Year's Day
+CHICAGO IL,42387,Martin Luther King Jr. Day
+CHICAGO IL,42412, Lincoln's Birthday
+CHICAGO IL,42415,President's Day
+CHICAGO IL,42436,Pulaski Day
+CHICAGO IL,42520,Memorial Day
+CHICAGO IL,42540,Juneteenth National Independence
+CHICAGO IL,42555,Independence Day
+CHICAGO IL,42618,Labor Day
+CHICAGO IL,42653,Columbus Day
+CHICAGO IL,42682,Election Day
+CHICAGO IL,42685,Veterans Day 
+CHICAGO IL,42698,Thanksgiving
+CHICAGO IL,42699,Thanksgiving (Day After)
+CHICAGO IL,42728,Christmas Eve
+CHICAGO IL,42729,Christmas day
+CHICAGO IL,42735,New Year's Eve
+CHICAGO IL,42736,New Year's Day
+CHICAGO IL,42751,Martin Luther King Jr. Day
+CHICAGO IL,42778, Lincoln's Birthday
+CHICAGO IL,42786,President's Day
+CHICAGO IL,42800,Pulaski Day
+CHICAGO IL,42884,Memorial Day
+CHICAGO IL,42905,Juneteenth National Independence
+CHICAGO IL,42920,Independence Day
+CHICAGO IL,42982,Labor Day
+CHICAGO IL,43017,Columbus Day
+CHICAGO IL,43050,Veterans Day 
+CHICAGO IL,43062,Thanksgiving
+CHICAGO IL,43063,Thanksgiving (Day After)
+CHICAGO IL,43093,Christmas Eve
+CHICAGO IL,43094,Christmas day
+CHICAGO IL,43100,New Year's Eve
+CHICAGO IL,43101,New Year's Day
+CHICAGO IL,43115,Martin Luther King Jr. Day
+CHICAGO IL,43143, Lincoln's Birthday
+CHICAGO IL,43150,President's Day
+CHICAGO IL,43164,Pulaski Day
+CHICAGO IL,43248,Memorial Day
+CHICAGO IL,43270,Juneteenth National Independence
+CHICAGO IL,43285,Independence Day
+CHICAGO IL,43346,Labor Day
+CHICAGO IL,43381,Columbus Day
+CHICAGO IL,43410,Election Day
+CHICAGO IL,43415,Veterans Day 
+CHICAGO IL,43426,Thanksgiving
+CHICAGO IL,43427,Thanksgiving (Day After)
+CHICAGO IL,43458,Christmas Eve
+CHICAGO IL,43459,Christmas day
+CHICAGO IL,43465,New Year's Eve
+DENVER CO,42370,New Year's Day
+DENVER CO,42387,Martin Luther King Jr. Day
+DENVER CO,42415,President's Day
+DENVER CO,42520,Memorial Day
+DENVER CO,42540,Juneteenth National Independence
+DENVER CO,42555,Independence Day
+DENVER CO,42618,Labor Day
+DENVER CO,42653,Columbus Day
+DENVER CO,42685,Veterans Day 
+DENVER CO,42698,Thanksgiving
+DENVER CO,42699,Thanksgiving (Day After)
+DENVER CO,42728,Christmas Eve
+DENVER CO,42729,Christmas day
+DENVER CO,42735,New Year's Eve
+DENVER CO,42736,New Year's Day
+DENVER CO,42751,Martin Luther King Jr. Day
+DENVER CO,42786,President's Day
+DENVER CO,42884,Memorial Day
+DENVER CO,42905,Juneteenth National Independence
+DENVER CO,42920,Independence Day
+DENVER CO,42982,Labor Day
+DENVER CO,43017,Columbus Day
+DENVER CO,43050,Veterans Day 
+DENVER CO,43062,Thanksgiving
+DENVER CO,43063,Thanksgiving (Day After)
+DENVER CO,43093,Christmas Eve
+DENVER CO,43094,Christmas day
+DENVER CO,43100,New Year's Eve
+DENVER CO,43101,New Year's Day
+DENVER CO,43115,Martin Luther King Jr. Day
+DENVER CO,43150,President's Day
+DENVER CO,43248,Memorial Day
+DENVER CO,43270,Juneteenth National Independence
+DENVER CO,43285,Independence Day
+DENVER CO,43346,Labor Day
+DENVER CO,43381,Columbus Day
+DENVER CO,43415,Veterans Day 
+DENVER CO,43426,Thanksgiving
+DENVER CO,43427,Thanksgiving (Day After)
+DENVER CO,43458,Christmas Eve
+DENVER CO,43459,Christmas day
+DENVER CO,43465,New Year's Eve
+AUSTIN TX,42370,New Year's Day
+AUSTIN TX,42387,Martin Luther King Jr. Day
+AUSTIN TX,42415,President's Day
+AUSTIN TX,42520,Memorial Day
+AUSTIN TX,42540,Juneteenth National Independence
+AUSTIN TX,42555,Independence Day
+AUSTIN TX,42618,Labor Day
+AUSTIN TX,42685,Veterans Day 
+AUSTIN TX,42698,Thanksgiving
+AUSTIN TX,42699,Thanksgiving (Day After)
+AUSTIN TX,42728,Christmas Eve
+AUSTIN TX,42729,Christmas day
+AUSTIN TX,42730,Christmas day (Day After)
+AUSTIN TX,42735,New Year's Eve
+AUSTIN TX,42736,New Year's Day
+AUSTIN TX,42751,Martin Luther King Jr. Day
+AUSTIN TX,42786,President's Day
+AUSTIN TX,42884,Memorial Day
+AUSTIN TX,42905,Juneteenth National Independence
+AUSTIN TX,42920,Independence Day
+AUSTIN TX,42982,Labor Day
+AUSTIN TX,43050,Veterans Day 
+AUSTIN TX,43062,Thanksgiving
+AUSTIN TX,43063,Thanksgiving (Day After)
+AUSTIN TX,43093,Christmas Eve
+AUSTIN TX,43094,Christmas day
+AUSTIN TX,43095,Christmas day (Day After)
+AUSTIN TX,43100,New Year's Eve
+AUSTIN TX,43101,New Year's Day
+AUSTIN TX,43115,Martin Luther King Jr. Day
+AUSTIN TX,43150,President's Day
+AUSTIN TX,43248,Memorial Day
+AUSTIN TX,43270,Juneteenth National Independence
+AUSTIN TX,43285,Independence Day
+AUSTIN TX,43346,Labor Day
+AUSTIN TX,43415,Veterans Day 
+AUSTIN TX,43426,Thanksgiving
+AUSTIN TX,43427,Thanksgiving (Day After)
+AUSTIN TX,43458,Christmas Eve
+AUSTIN TX,43459,Christmas day
+AUSTIN TX,43460,Christmas day (Day After)
+AUSTIN TX,43465,New Year's Eve
+LOS ANGELES CA,42370,New Year's Day
+LOS ANGELES CA,42387,Martin Luther King Jr. Day
+LOS ANGELES CA,42415,President's Day
+LOS ANGELES CA,43190,César Chávez Day
+LOS ANGELES CA,42520,Memorial Day
+LOS ANGELES CA,42540,Juneteenth National Independence
+LOS ANGELES CA,42555,Independence Day
+LOS ANGELES CA,42618,Labor Day
+LOS ANGELES CA,42685,Veterans Day 
+LOS ANGELES CA,42698,Thanksgiving
+LOS ANGELES CA,42699,Thanksgiving (Day After)
+LOS ANGELES CA,42728,Christmas Eve
+LOS ANGELES CA,42729,Christmas day
+LOS ANGELES CA,42735,New Year's Eve
+LOS ANGELES CA,42736,New Year's Day
+LOS ANGELES CA,42751,Martin Luther King Jr. Day
+LOS ANGELES CA,42786,President's Day
+LOS ANGELES CA,43190,César Chávez Day
+LOS ANGELES CA,42884,Memorial Day
+LOS ANGELES CA,42905,Juneteenth National Independence
+LOS ANGELES CA,42920,Independence Day
+LOS ANGELES CA,42982,Labor Day
+LOS ANGELES CA,43050,Veterans Day 
+LOS ANGELES CA,43062,Thanksgiving
+LOS ANGELES CA,43063,Thanksgiving (Day After)
+LOS ANGELES CA,43093,Christmas Eve
+LOS ANGELES CA,43094,Christmas day
+LOS ANGELES CA,43100,New Year's Eve
+LOS ANGELES CA,43101,New Year's Day
+LOS ANGELES CA,43115,Martin Luther King Jr. Day
+LOS ANGELES CA,43150,President's Day
+LOS ANGELES CA,43190,César Chávez Day
+LOS ANGELES CA,43248,Memorial Day
+LOS ANGELES CA,43270,Juneteenth National Independence
+LOS ANGELES CA,43285,Independence Day
+LOS ANGELES CA,43346,Labor Day
+LOS ANGELES CA,43415,Veterans Day 
+LOS ANGELES CA,43426,Thanksgiving
+LOS ANGELES CA,43427,Thanksgiving (Day After)
+LOS ANGELES CA,43458,Christmas Eve
+LOS ANGELES CA,43459,Christmas day
+LOS ANGELES CA,43465,New Year's Eve
+PITTSBURGH PA,42370,New Year's Day
+PITTSBURGH PA,42387,Martin Luther King Jr. Day
+PITTSBURGH PA,42415,President's Day
+PITTSBURGH PA,42454,Good Friday
+PITTSBURGH PA,42520,Memorial Day
+PITTSBURGH PA,42540,Juneteenth National Independence
+PITTSBURGH PA,42555,Independence Day
+PITTSBURGH PA,42618,Labor Day
+PITTSBURGH PA,42653,Columbus Day
+PITTSBURGH PA,42682,Election Day
+PITTSBURGH PA,42685,Veterans Day 
+PITTSBURGH PA,42698,Thanksgiving
+PITTSBURGH PA,42699,Thanksgiving (Day After)
+PITTSBURGH PA,42728,Christmas Eve
+PITTSBURGH PA,42729,Christmas day
+PITTSBURGH PA,42735,New Year's Eve
+PITTSBURGH PA,42736,New Year's Day
+PITTSBURGH PA,42751,Martin Luther King Jr. Day
+PITTSBURGH PA,42786,President's Day
+PITTSBURGH PA,42839,Good Friday
+PITTSBURGH PA,42884,Memorial Day
+PITTSBURGH PA,42905,Juneteenth National Independence
+PITTSBURGH PA,42920,Independence Day
+PITTSBURGH PA,42982,Labor Day
+PITTSBURGH PA,43017,Columbus Day
+PITTSBURGH PA,43050,Veterans Day 
+PITTSBURGH PA,43062,Thanksgiving
+PITTSBURGH PA,43063,Thanksgiving (Day After)
+PITTSBURGH PA,43093,Christmas Eve
+PITTSBURGH PA,43094,Christmas day
+PITTSBURGH PA,43100,New Year's Eve
+PITTSBURGH PA,43101,New Year's Day
+PITTSBURGH PA,43115,Martin Luther King Jr. Day
+PITTSBURGH PA,43150,President's Day
+PITTSBURGH PA,43189,Good Friday
+PITTSBURGH PA,43248,Memorial Day
+PITTSBURGH PA,43270,Juneteenth National Independence
+PITTSBURGH PA,43285,Independence Day
+PITTSBURGH PA,43346,Labor Day
+PITTSBURGH PA,43381,Columbus Day
+PITTSBURGH PA,43410,Election Day
+PITTSBURGH PA,43415,Veterans Day 
+PITTSBURGH PA,43426,Thanksgiving
+PITTSBURGH PA,43427,Thanksgiving (Day After)
+PITTSBURGH PA,43458,Christmas Eve
+PITTSBURGH PA,43459,Christmas day
+PITTSBURGH PA,43465,New Year's Eve
+WASHINGTON DC,42370,New Year's Day
+WASHINGTON DC,42387,Martin Luther King Jr. Day
+WASHINGTON DC,42415,President's Day
+WASHINGTON DC,42520,Memorial Day
+WASHINGTON DC,42540,Juneteenth National Independence
+WASHINGTON DC,42555,Independence Day
+WASHINGTON DC,42618,Labor Day
+WASHINGTON DC,42653,Columbus Day
+WASHINGTON DC,42685,Veterans Day 
+WASHINGTON DC,42698,Thanksgiving
+WASHINGTON DC,42699,Thanksgiving (Day After)
+WASHINGTON DC,42728,Christmas Eve
+WASHINGTON DC,42729,Christmas day
+WASHINGTON DC,42735,New Year's Eve
+WASHINGTON DC,42736,New Year's Day
+WASHINGTON DC,42751,Martin Luther King Jr. Day
+WASHINGTON DC,42786,President's Day
+WASHINGTON DC,42884,Memorial Day
+WASHINGTON DC,42905,Juneteenth National Independence
+WASHINGTON DC,42920,Independence Day
+WASHINGTON DC,42982,Labor Day
+WASHINGTON DC,43017,Columbus Day
+WASHINGTON DC,43050,Veterans Day 
+WASHINGTON DC,43062,Thanksgiving
+WASHINGTON DC,43063,Thanksgiving (Day After)
+WASHINGTON DC,43093,Christmas Eve
+WASHINGTON DC,43094,Christmas day
+WASHINGTON DC,43100,New Year's Eve
+WASHINGTON DC,43101,New Year's Day
+WASHINGTON DC,43115,Martin Luther King Jr. Day
+WASHINGTON DC,43150,President's Day
+WASHINGTON DC,43248,Memorial Day
+WASHINGTON DC,43270,Juneteenth National Independence
+WASHINGTON DC,43285,Independence Day
+WASHINGTON DC,43346,Labor Day
+WASHINGTON DC,43381,Columbus Day
+WASHINGTON DC,43415,Veterans Day 
+WASHINGTON DC,43426,Thanksgiving
+WASHINGTON DC,43427,Thanksgiving (Day After)
+WASHINGTON DC,43458,Christmas Eve
+WASHINGTON DC,43459,Christmas day
+WASHINGTON DC,43465,New Year's Eve
+SEATTLE WA,42370,New Year's Day
+SEATTLE WA,42387,Martin Luther King Jr. Day
+SEATTLE WA,42415,President's Day
+SEATTLE WA,42520,Memorial Day
+SEATTLE WA,42540,Juneteenth National Independence
+SEATTLE WA,42555,Independence Day
+SEATTLE WA,42618,Labor Day
+SEATTLE WA,42685,Veterans Day 
+SEATTLE WA,42698,Thanksgiving
+SEATTLE WA,42699,Thanksgiving (Day After)
+SEATTLE WA,42728,Christmas Eve
+SEATTLE WA,42729,Christmas day
+SEATTLE WA,42735,New Year's Eve
+SEATTLE WA,42736,New Year's Day
+SEATTLE WA,42751,Martin Luther King Jr. Day
+SEATTLE WA,42786,President's Day
+SEATTLE WA,42884,Memorial Day
+SEATTLE WA,42905,Juneteenth National Independence
+SEATTLE WA,42920,Independence Day
+SEATTLE WA,42982,Labor Day
+SEATTLE WA,43050,Veterans Day 
+SEATTLE WA,43062,Thanksgiving
+SEATTLE WA,43063,Thanksgiving (Day After)
+SEATTLE WA,43093,Christmas Eve
+SEATTLE WA,43094,Christmas day
+SEATTLE WA,43100,New Year's Eve
+SEATTLE WA,43101,New Year's Day
+SEATTLE WA,43115,Martin Luther King Jr. Day
+SEATTLE WA,43150,President's Day
+SEATTLE WA,43248,Memorial Day
+SEATTLE WA,43270,Juneteenth National Independence
+SEATTLE WA,43285,Independence Day
+SEATTLE WA,43346,Labor Day
+SEATTLE WA,43415,Veterans Day 
+SEATTLE WA,43426,Thanksgiving
+SEATTLE WA,43427,Thanksgiving (Day After)
+SEATTLE WA,43458,Christmas Eve
+SEATTLE WA,43459,Christmas day
+SEATTLE WA,43465,New Year's Eve
+NEW YORK NY,42370,New Year's Day
+NEW YORK NY,42387,Martin Luther King Jr. Day
+NEW YORK NY,42412,Lincoln's Birthday
+NEW YORK NY,42415,President's Day
+NEW YORK NY,42520,Memorial Day
+NEW YORK NY,42540,Juneteenth National Independence
+NEW YORK NY,42555,Independence Day
+NEW YORK NY,42618,Labor Day
+NEW YORK NY,42653,Columbus Day
+NEW YORK NY,42682,Election Day
+NEW YORK NY,42685,Veterans Day 
+NEW YORK NY,42698,Thanksgiving
+NEW YORK NY,42699,Thanksgiving (Day After)
+NEW YORK NY,42728,Christmas Eve
+NEW YORK NY,42729,Christmas day
+NEW YORK NY,42735,New Year's Eve
+NEW YORK NY,42736,New Year's Day
+NEW YORK NY,42751,Martin Luther King Jr. Day
+NEW YORK NY,42778,Lincoln's Birthday
+NEW YORK NY,42786,President's Day
+NEW YORK NY,42884,Memorial Day
+NEW YORK NY,42905,Juneteenth National Independence
+NEW YORK NY,42920,Independence Day
+NEW YORK NY,42982,Labor Day
+NEW YORK NY,43017,Columbus Day
+NEW YORK NY,43050,Veterans Day 
+NEW YORK NY,43062,Thanksgiving
+NEW YORK NY,43063,Thanksgiving (Day After)
+NEW YORK NY,43093,Christmas Eve
+NEW YORK NY,43094,Christmas day
+NEW YORK NY,43100,New Year's Eve
+NEW YORK NY,43101,New Year's Day
+NEW YORK NY,43115,Martin Luther King Jr. Day
+NEW YORK NY,43143,Lincoln's Birthday
+NEW YORK NY,43150,President's Day
+NEW YORK NY,43248,Memorial Day
+NEW YORK NY,43270,Juneteenth National Independence
+NEW YORK NY,43285,Independence Day
+NEW YORK NY,43346,Labor Day
+NEW YORK NY,43381,Columbus Day
+NEW YORK NY,43410,Election Day
+NEW YORK NY,43415,Veterans Day 
+NEW YORK NY,43426,Thanksgiving
+NEW YORK NY,43427,Thanksgiving (Day After)
+NEW YORK NY,43458,Christmas Eve
+NEW YORK NY,43459,Christmas day
+NEW YORK NY,43465,New Year's Eve
+ORANGE COUNTY,42370,New Year's Day
+ORANGE COUNTY,42387,Martin Luther King Jr. Day
+ORANGE COUNTY,42415,President's Day
+ORANGE COUNTY,43190,César Chávez Day
+ORANGE COUNTY,42520,Memorial Day
+ORANGE COUNTY,42540,Juneteenth National Independence
+ORANGE COUNTY,42555,Independence Day
+ORANGE COUNTY,42618,Labor Day
+ORANGE COUNTY,42685,Veterans Day 
+ORANGE COUNTY,42698,Thanksgiving
+ORANGE COUNTY,42699,Thanksgiving (Day After)
+ORANGE COUNTY,42728,Christmas Eve
+ORANGE COUNTY,42729,Christmas day
+ORANGE COUNTY,42735,New Year's Eve
+ORANGE COUNTY,42736,New Year's Day
+ORANGE COUNTY,42751,Martin Luther King Jr. Day
+ORANGE COUNTY,42786,President's Day
+ORANGE COUNTY,43190,César Chávez Day
+ORANGE COUNTY,42884,Memorial Day
+ORANGE COUNTY,42905,Juneteenth National Independence
+ORANGE COUNTY,42920,Independence Day
+ORANGE COUNTY,42982,Labor Day
+ORANGE COUNTY,43050,Veterans Day 
+ORANGE COUNTY,43062,Thanksgiving
+ORANGE COUNTY,43063,Thanksgiving (Day After)
+ORANGE COUNTY,43093,Christmas Eve
+ORANGE COUNTY,43094,Christmas day
+ORANGE COUNTY,43100,New Year's Eve
+ORANGE COUNTY,43101,New Year's Day
+ORANGE COUNTY,43115,Martin Luther King Jr. Day
+ORANGE COUNTY,43150,President's Day
+ORANGE COUNTY,43190,César Chávez Day
+ORANGE COUNTY,43248,Memorial Day
+ORANGE COUNTY,43270,Juneteenth National Independence
+ORANGE COUNTY,43285,Independence Day
+ORANGE COUNTY,43346,Labor Day
+ORANGE COUNTY,43415,Veterans Day 
+ORANGE COUNTY,43426,Thanksgiving
+ORANGE COUNTY,43427,Thanksgiving (Day After)
+ORANGE COUNTY,43458,Christmas Eve
+ORANGE COUNTY,43459,Christmas day
+ORANGE COUNTY,43465,New Year's Eve
